@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kunalsingh871@gmail.com**
 
-- ⚡ Fun fact **I a chef!**
+- ⚡ Fun fact **I am chef!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
