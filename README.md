@@ -1,5 +1,13 @@
+<div align="center">
+  <img src="github-header-image.png" alt="Banner Image" style="max-width: 100%; height: auto;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/09/c7/4c/09c74c130718ce11e07c2d16c558e116.gif" alt="Focusing" width="400" height="350" style="display: inline-block;">
+</div>
 
 - 🔭 I’m currently working on **bancs**
 
